@@ -1,0 +1,6 @@
+{
+    "activity" :["caminhada","corrida", "corrida e caminhada","caminhada","trekker", "yoga","byke","peso", "abdominais","caminhada","musculação", "aeróbico","anaeróbio"],
+    "intensity":["bem leve","leve","moderado","forte","muito forte"],
+    "perceivedSensation":["estou bem","estimulado","faria mais um pouco","dificuldade para concluir","um pouco cansado","muito cansado","leve","dores moderadas","dor de cabeça","me lesioenei"],
+    "local":["outdoor","indoor","academia","em casa","estrada de terra","asfalto","parque","subida leve","subida moderada","subida forte","reta e subida"]
+}
